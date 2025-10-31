@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "v22.12.0"
+  },
   "name": "personalportfolio",
   "private": true,
   "version": "0.0.0",
