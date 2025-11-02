@@ -41,7 +41,10 @@ function AboutContent({ isVisible, scrollToProjects }) {
             </div>
 
             <div className="flex flex-wrap gap-4 transition-all duration-1000 delay-1100">
-                <Button content={"DOWNLOAD"}></Button>
+
+                <a href="/Aayush_paliwal_SDE.pdf" download="Aayush_Paliwal_SDE.pdf">
+                    <Button content="DOWNLOAD" className="px-8 py-3 mt-0.5" />
+                </a>
                 
                 <button 
                     className="border-2 border-slate-400 text-white px-8 py-3 rounded-lg hover:border-green-600 hover:text-green-400 transition-all duration-300 font-medium hover:scale-105"
