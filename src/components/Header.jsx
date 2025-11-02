@@ -80,7 +80,7 @@ function Header() {
                     );
                 })}
 
-                <a href="/Aayush_paliwal_SDE.pdf" download="Aayush_Paliwal_SDE.pdf">
+                <a href="/Aayush_paliwal_SDE.pdf" download="Aayush_paliwal_SDE.pdf">
                     <Button content="Download CV Now" />
                 </a>
 
